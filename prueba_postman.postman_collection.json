@@ -1,0 +1,94 @@
+{
+	"info": {
+		"_postman_id": "056961ff-17e7-42f5-999a-7f4e388f704b",
+		"name": "prueba_postman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30842318"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:8000",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "host",
+						"value": "127.0.0.1:8000"
+					},
+					{
+						"key": "connection",
+						"value": "keep-alive"
+					},
+					{
+						"key": "sec-ch-ua",
+						"value": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Opera GX\";v=\"102\""
+					},
+					{
+						"key": "sec-ch-ua-mobile",
+						"value": "?0"
+					},
+					{
+						"key": "sec-ch-ua-platform",
+						"value": "\"Windows\""
+					},
+					{
+						"key": "upgrade-insecure-requests",
+						"value": "1"
+					},
+					{
+						"key": "user-agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0"
+					},
+					{
+						"key": "accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+					},
+					{
+						"key": "sec-fetch-site",
+						"value": "same-origin"
+					},
+					{
+						"key": "sec-fetch-mode",
+						"value": "navigate"
+					},
+					{
+						"key": "sec-fetch-user",
+						"value": "?1"
+					},
+					{
+						"key": "sec-fetch-dest",
+						"value": "document"
+					},
+					{
+						"key": "referer",
+						"value": "http://127.0.0.1:8000/compras/"
+					},
+					{
+						"key": "accept-encoding",
+						"value": "gzip, deflate, br"
+					},
+					{
+						"key": "accept-language",
+						"value": "es-419,es;q=0.9"
+					},
+					{
+						"key": "cookie",
+						"value": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6ImNxZWdnZTQ4UFB4dnZwL25icTN4U0E9PSIsInZhbHVlIjoid2xqdDd2OUVWREZEMXBKbmxBOE00b21aTzRvU2dxWXZPcnJMQktYNnhuOGUzTFIvY3RZc3FDTzg5Y202aVJjbGhlTjhyTGtaR0FyQS9kRytTNy9LdW5NUnZBZXdROE14QzJiRE9qbkN2NlluSU9QeHJtTUkyUDBJVzVPN3pZTmo5OHFGUWdqa01oaDNoNXRYVjUzc0RYWUZEMHhOZE1wOGFUY3QwOUt0QTBZWFRGZEMvV00xZStBVUErUGxIK2g2R1dFNFRNREZJYUJEQklVcXYrdVZCS0t2dUE5UDFJU1hYYWx4L20yWk1oWT0iLCJtYWMiOiJmMjUwYzIxMTQwYzc0M2QxMDljN2NlNzU2NjNmZWU0NGUyODM0YjBlZTE3MTIwOTQ5MmNjMWQ1ZmUwNDMzMWEyIiwidGFnIjoiIn0%3D; XSRF-TOKEN=eyJpdiI6IlRURFZwWFBKRmlFM0Z2ci9XNk9GaHc9PSIsInZhbHVlIjoidDZrN0cwVDZFU3pYN1MrSURTVkhBZ3JpOHc3eFY3Sm9jYklxdFdwSWZnaHNLY01zVFBDbDV2RU5ZTGMxTGtUUEwyWXJEbStxcU9BbnB4cUdJZ2NPR1J3TjNzVjdvejdpbEI3dkVFelRjb1RtWjEzNHhudDN5dEdFNjVkTFFSejciLCJtYWMiOiIxYjViMjQwYWQxNzgzNzhiOThjMTBlN2RmMTExY2RlNTRjZTkzOTRhYTQ1ZmMwYjI5MmU2YTJkZTM0NTljZjljIiwidGFnIjoiIn0%3D; laravel_session=eyJpdiI6IlF4MFVRMkdaVVZRS0wyNm05bVRUS2c9PSIsInZhbHVlIjoieXVXekN2d1VMTGlrd2wxTGtKK05takpTL25qKzZUOUp3UWRiVGdxb21rT2xPcnpVb1hkcTV2dE43ZkxNQWcwNjBRV1o3d1lnR2t1OUhwYXRCM3JQbHZ1UVc1cTlYSm5CNTVkZlNibmFSYWg2ZEdzSnIybXYwem5BM3lqai9ERXIiLCJtYWMiOiI4M2MzOTM2OTUxNjFmYmRjN2M0NTdhOTY5OGE5YzExMWIxNWI2YjdiMjBmMjFhMTQ3NWI0ZGJkZDNkZTZkMjcwIiwidGFnIjoiIn0%3D"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:8000",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000"
+				}
+			},
+			"response": []
+		}
+	]
+}
